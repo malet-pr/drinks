@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="package drinks" />
+        <option name="packageNamePattern" value="com.example.drinks" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="package drinks" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41c179a8-37e8-4d62-8a83-e2f8d8c060d5" name="Default Changelist" comment="agregada la splash screen. Commit Final (por ahora)">
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_29_x86" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Drinks" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;List&lt;Drink&gt;&gt;</find>
+      <find>List&lt;DrinkResult&gt;</find>
+      <find>i</find>
+      <find>DrinkAdapter</find>
+      <find>getCategory</find>
+      <find>categoryAdapter</find>
+      <find>categoryList</find>
+      <find>CategoryResult</find>
+      <find>categoryResult</find>
+      <find>String</find>
+      <find>ingredient</find>
+      <find>ingredientsList.add(ingredient</find>
+      <find>content.put(ingredient</find>
+      <find>);</find>
+      <find>+  +</find>
+      <find>\t\t</find>
+      <find>according to taste</find>
+      <find>private</find>
+      <find>drinkList</find>
+      <find>ArrayList.clear</find>
+      <find>ArrayList</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;Drink&gt;</replace>
+      <replace>drink</replace>
+      <replace>DrinkResult</replace>
+      <replace>categoryAdapter</replace>
+      <replace>CategoryAdapter</replace>
+      <replace>IngredientResult</replace>
+      <replace>getIngredient</replace>
+      <replace>ingredientAdapter</replace>
+      <replace>AlcoholResult</replace>
+      <replace>TextView</replace>
+      <replace>measure</replace>
+      <replace>content.put(ingredient, measure)</replace>
+      <replace>ingredientList.add(ingredient</replace>
+      <replace>+ &quot;\n&quot;;</replace>
+      <replace>+ &quot;\t\t&quot; + measure + &quot;\n&quot;;</replace>
+      <replace>+</replace>
+      <replace />
+      <replace>FullDrinkResult</replace>
+      <replace>fullDrinkResult</replace>
+      <replace>fullDrinkList</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="nmalet &lt;nmalet@gmail.com&gt;" />
+        <option value="n" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FullDrinkPagerActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_random.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_menu_random.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_fulldrink.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentFullDrink.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentRandom.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/adapters/DrinkAdapter.java" />
+        <option value="$PROJECT_DIR$/app/temp" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/webservices/ApiInterface.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentList.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/adapters/FullDrinkAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/models/FullDrinkResult.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentFullDrinkList.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_menu_letter.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_menu_name.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentHome.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentIngredient.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentCategory.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_one.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/App/AppController.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/models/FullDrink.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_menu_delete.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_fab_saved.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_menu_saved.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/drawer_view.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fulldrink_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FullDrinkActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_saved.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentSaved.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_three.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_name.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_letter.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/utils/RealmController.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentLetter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentName.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/splash_screen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/main_background.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/frame_background.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/drinks/utils/Functions.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Drinks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Drinks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Drinks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Drinks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Drinks" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
+    <property name="DEBUGGABLE_PROCESS" value="system_process" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5X_API_29_x86" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-09-24T00:59:21.033Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="idea.background.editor" value="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/fondoColorArenaOscuro,15,scale,center" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GitHub/NavigationDrawer" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documentos\AndroidProjects\Drinks\app\src\main\res\drawable-mdpi" />
+      <recent name="D:\Documentos\AndroidProjects\Drinks\app\src\main\res\raw" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.drinks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documentos\AndroidProjects\Drinks\app\src\main\res\drawable" />
+      <recent name="D:\Documentos\AndroidProjects\Drinks\app\src\main\res\drawable-anydpi" />
+      <recent name="D:\Documentos\AndroidProjects\Drinks\app\src\main\res\images" />
+      <recent name="D:\Documentos\AndroidProjects\Drinks\app\src\main\res\drawable-mdpi" />
+      <recent name="D:\Documentos\AndroidProjects\Drinks\app\src\main\res\menu" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.drinks" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.drinks.activitiesFragments" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="All in app" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
+      <module name="app" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41c179a8-37e8-4d62-8a83-e2f8d8c060d5" name="Default Changelist" comment="" />
+      <created>1569283660899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569283660899</updated>
+    </task>
+    <task id="LOCAL-00007" summary="completado el DrinkAdapter (con reparos, no se si glide va a funcionar)">
+      <created>1569584800835</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569584800835</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Completados la ApiInterface (para este caso de prueba) y la clase IntroFragment (para este caso de prueba). Falta corree la app a ver si funciona">
+      <created>1569591744617</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569591744617</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Este codigo no funciona. El problema es que le JSON viene como array en lugar de objeto. Hasta que encuentre una solucion voy a buscar otra api">
+      <created>1569632491420</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1569632491420</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Este codigo no funciona. El problema es que le JSON viene como array en lugar de objeto. Hasta que encuentre una solucion voy a buscar otra api">
+      <created>1569632517092</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1569632517092</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Este codigo no funciona. El problema es que le JSON viene como array en lugar de objeto. Hasta que encuentre una solucion voy a buscar otra api">
+      <created>1569637359442</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1569637359442</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Resueltos los problemas de conexión con la API. Funciona. Esta es una versión de prueba, hay que hacer las clases, vistas, adaptadores y servicios definitivos.">
+      <created>1569722842793</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1569722842793</updated>
+    </task>
+    <task id="LOCAL-00013" summary="creados modelos para categoria y consulta correspondiente en la ApiInterface.&#10;refactorizada la ApiInterface para que incluya el resto de las busquedas con el menor codigo posible">
+      <created>1569787676262</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1569787676262</updated>
+    </task>
+    <task id="LOCAL-00014" summary="creados modelos para categoria y consulta correspondiente en la ApiInterface.&#10;refactorizada la ApiInterface para que incluya el resto de las busquedas con el menor codigo posible">
+      <created>1569787884298</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1569787884298</updated>
+    </task>
+    <task id="LOCAL-00015" summary="armado el CategoryAdapter, solucionado el problema de navegacion">
+      <created>1569790818436</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1569790818436</updated>
+    </task>
+    <task id="LOCAL-00016" summary="armado el FragmentCategory y probada la app. Funciona. Hay que mejorar el UI de Category">
+      <created>1569792522227</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1569792522227</updated>
+    </task>
+    <task id="LOCAL-00017" summary="armado el FragmentCategory y probada la app. Funciona. Hay que mejorar el UI de Category. Falta el onClickListener">
+      <created>1569792622784</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569792622784</updated>
+    </task>
+    <task id="LOCAL-00018" summary="armado el FragmentCategory y probada la app. Funciona. Hay que mejorar el UI de Category. Falta el onClickListener">
+      <created>1569801219813</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1569801219813</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Algo mejorada la vista de categorias. Falta el onClickListener">
+      <created>1569801896898</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569801896898</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Algo mejorada la vista de categorias. Falta el onClickListener">
+      <created>1569802217142</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1569802217142</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Agregado el clicListener pero no es el mas eficiente (el otro no lo pude hacer funcionar). Falta ver como se puede cambiar la busqueda de retrofit de acuerdo a la categoria seleccionada. Falta crear el intent para enviarlo a FragmentList">
+      <created>1569810987674</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1569810987674</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Mejorada la vista de lista. Intento de implementacion del OnItemClick usando ButterKnife pero no funciona">
+      <created>1569866562663</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1569866562663</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Mejorada la vista de lista. Intento de implementacion del OnItemClick usando ButterKnife pero no funciona">
+      <created>1569866827522</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1569866827523</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Resuelto OnItemClickListener. Eliminada la prueba de FragmentIntro. Resuelto que solo carge la lista de categorias una vez y que realice la busqueda correspondiente de cada categoria. NO FUNCIONA LA FUNCION PARA VOLVER ATRAS Y NO FUNCIONA CON BARRA DE SETTINGS.(ver eso)">
+      <created>1569907635628</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1569907635628</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Cambiados algunos colores">
+      <created>1569937652942</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1569937652942</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Cambiados algunos colores">
+      <created>1569939504884</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1569939504884</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Cambiados algunos colores">
+      <created>1569939551170</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1569939551170</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Cambiados algunos colores">
+      <created>1569940420264</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1569940420264</updated>
+    </task>
+    <task id="LOCAL-00029" summary="creados todos los archivos necesarios para buscar ingrediente principal y bebidas que lo tengan. NO FUNCIONA. error:&#10;    java.lang.IllegalStateException: Fragment com.example.drinks.activitiesFragments.FragmentIngredient must be a public static class to be  properly recreated from instance state.">
+      <created>1569945047507</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1569945047507</updated>
+    </task>
+    <task id="LOCAL-00030" summary="resuelto el problema con FragmentIngredient y corregidos FragmentList y FragmentCategory para que FragmentList pueda ser usado con todas las busquedas">
+      <created>1569948068895</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1569948068895</updated>
+    </task>
+    <task id="LOCAL-00031" summary="creadas clases FullDrink y FullDrinkResult">
+      <created>1570030482591</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1570030482591</updated>
+    </task>
+    <task id="LOCAL-00032" summary="armada vista de bebida completa, por ahora unida al menu home para poder verla (esto hay que cambiarlo).">
+      <created>1570055015984</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1570055015984</updated>
+    </task>
+    <task id="LOCAL-00033" summary="armada la busqueda y presentacion de bebida aleatoria, excepto la lista de ingredientes y cantidades que no funciona. Eliminada la vista de bebida completa de home">
+      <created>1570065878362</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1570065878362</updated>
+    </task>
+    <task id="LOCAL-00034" summary="arreglado el problema con la lista de ingredientes de la bebida random">
+      <created>1570075740509</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1570075740509</updated>
+    </task>
+    <task id="LOCAL-00035" summary="eliminado todo lo relacionado con bebida random porque fue quitado de la API. Creados listener y actividad para ver la bebida completa al seleccionar una tarjeta.">
+      <created>1570239990035</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1570239990035</updated>
+    </task>
+    <task id="LOCAL-00036" summary="resuleto problema de backbutton. resuelto problema de giro de la pantalla">
+      <created>1570243978471</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1570243978471</updated>
+    </task>
+    <task id="LOCAL-00037" summary="diseño preliminar de la pantalla de busqueda por nombre">
+      <created>1570293823644</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1570293823644</updated>
+    </task>
+    <task id="LOCAL-00038" summary="mejorado el diseño de la vista de FragmentName. Comenzado el fragmento (colocada la vista en forma dinamica, creados los listeners, recuperada la informacion de nombre y letra con el formato adecuado)">
+      <created>1570332903398</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1570332903398</updated>
+    </task>
+    <task id="LOCAL-00039" summary="mejorado el diseño de la vista de FragmentName. Comenzado el fragmento (colocada la vista en forma dinamica, creados los listeners, recuperada la informacion de nombre y letra con el formato adecuado)">
+      <created>1570332965427</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1570332965427</updated>
+    </task>
+    <task id="LOCAL-00040" summary="implementada la busqueda por nombre o inicial y terminado en el caso de un unico resultado, falta resolver cuando la busqueda da resultados multiples">
+      <created>1570395217696</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1570395217696</updated>
+    </task>
+    <task id="LOCAL-00041" summary="resuelto el problema de las busquedas por nombre y primer caracter, arreglado el boton de retorno para que regrese hasta la eleccion base y luego pregunte antes de salir de la aplicacion">
+      <created>1570471012877</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1570471012877</updated>
+    </task>
+    <task id="LOCAL-00042" summary="corregidos los mensajes cuando no se encuentra ninguna bebida buscando por nombre o por inicial">
+      <created>1570471939807</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1570471939807</updated>
+    </task>
+    <task id="LOCAL-00043" summary="corregidos los mensajes cuando no se encuentra ninguna bebida buscando por nombre o por inicial">
+      <created>1570472197620</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1570472197620</updated>
+    </task>
+    <task id="LOCAL-00044" summary="corregido el mensaje de salida">
+      <created>1570473579781</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1570473579781</updated>
+    </task>
+    <task id="LOCAL-00045" summary="corregido un problema con el boton clear de la busqueda por caracter">
+      <created>1570481205117</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1570481205117</updated>
+    </task>
+    <task id="LOCAL-00046" summary="arreglado el problema de introducir espacios en blanco o no introducir nada en los dos campos para introducir nombre y primer caracter de la bebida. restringido el edittext del fragmento de letra para que solo acepte un caracter">
+      <created>1570495544227</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1570495544227</updated>
+    </task>
+    <task id="LOCAL-00047" summary="arreglado el problema de introducir espacios en blanco o no introducir nada en los dos campos para introducir nombre y primer caracter de la bebida. restringido el edittext del fragmento de letra para que solo acepte un caracter">
+      <created>1570496393700</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1570496393700</updated>
+    </task>
+    <task id="LOCAL-00048" summary="inicializado Realm, creados los AppController y RealmController">
+      <created>1570499396266</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1570499396267</updated>
+    </task>
+    <task id="LOCAL-00049" summary="agregada version preliminar de FAB en fulldrink_activity.xml. Arreglados problemas con Realm y FullDrink">
+      <created>1570502072012</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1570502072012</updated>
+    </task>
+    <task id="LOCAL-00050" summary="implementada toda la funcionalidad de bebidas guardadas y mejoradas algunas vistas">
+      <created>1570553024837</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1570553024838</updated>
+    </task>
+    <task id="LOCAL-00051" summary="reconoce la tecla enter en los editview para largar la busqueda (falta ver como se oculta el teclado">
+      <created>1570556662361</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1570556662361</updated>
+    </task>
+    <task id="LOCAL-00052" summary="arreglado el asunto de que oculte el softKeyboard cuando se apreta enter">
+      <created>1570558143726</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1570558143726</updated>
+    </task>
+    <task id="LOCAL-00053" summary="arreglado problema de no vaciado de listas de resultados en busquedas por nombre y caracter. Arreglada la lista de bebidas guardadas para que las muestre en orden alfabetico">
+      <created>1570560337042</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1570560337042</updated>
+    </task>
+    <task id="LOCAL-00054" summary="agregada la splash screen. Commit Final (por ahora)">
+      <created>1570573611457</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1570573611457</updated>
+    </task>
+    <task id="LOCAL-00055" summary="agregada la splash screen. Commit Final (por ahora)">
+      <created>1570578646225</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1570578646225</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_app - 2019.09.27 at 13h 14m 23s.xml">
+      <configuration name="All in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="All_in_app - 2019.09.27 at 13h 18m 47s.xml">
+      <configuration name="All in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="All_in_app - 2019.09.27 at 13h 20m 52s.xml">
+      <configuration name="All in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="All_in_app - 2019.09.27 at 13h 23m 51s.xml">
+      <configuration name="All in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="All_in_app - 2019.09.27 at 13h 24m 06s.xml">
+      <configuration name="All in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="All_in_app - 2019.09.27 at 13h 24m 57s.xml">
+      <configuration name="All in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="All_in_app - 2019.09.27 at 13h 25m 33s.xml">
+      <configuration name="All in app" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4921191" visible="true" weight="0.21633889" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Build Variants" order="7" sideWeight="0.5078809" side_tool="true" weight="0.21633889" />
+      <window_info id="Structure" order="8" sideWeight="0.50501674" side_tool="true" weight="0.18381241" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49848714" weight="0.078025475" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.6910828" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49848714" weight="0.20382166" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.89171976" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.77070063" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5015129" side_tool="true" weight="0.0477707" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32961783" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4969743" weight="0.18471338" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.5477707" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" weight="0.32961783" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32980332" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.24054463" />
+      <window_info anchor="right" id="Device File Explorer" order="6" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Assistant" order="7" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4936306" visible="true" weight="0.21633889" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Build Variants" order="7" sideWeight="0.5063694" side_tool="true" weight="0.21633889" />
+      <window_info id="Structure" order="8" sideWeight="0.50501674" side_tool="true" weight="0.18381241" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49848714" weight="0.078025475" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.6910828" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49848714" weight="0.20382166" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.89171976" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.77070063" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5015129" side_tool="true" weight="0.0477707" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32961783" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4969743" visible="true" weight="0.0477707" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.5477707" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" weight="0.32961783" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32980332" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.24054463" />
+      <window_info anchor="right" id="Device File Explorer" order="6" side_tool="true" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Resuelto OnItemClickListener. Eliminada la prueba de FragmentIntro. Resuelto que solo carge la lista de categorias una vez y que realice la busqueda correspondiente de cada categoria. NO FUNCIONA LA FUNCION PARA VOLVER ATRAS Y NO FUNCIONA CON BARRA DE SETTINGS.(ver eso)" />
+    <MESSAGE value="Cambiados algunos colores" />
+    <MESSAGE value="creados todos los archivos necesarios para buscar ingrediente principal y bebidas que lo tengan. NO FUNCIONA. error:&#10;    java.lang.IllegalStateException: Fragment com.example.drinks.activitiesFragments.FragmentIngredient must be a public static class to be  properly recreated from instance state." />
+    <MESSAGE value="resuelto el problema con FragmentIngredient y corregidos FragmentList y FragmentCategory para que FragmentList pueda ser usado con todas las busquedas" />
+    <MESSAGE value="creadas clases FullDrink y FullDrinkResult" />
+    <MESSAGE value="armada vista de bebida completa, por ahora unida al menu home para poder verla (esto hay que cambiarlo)." />
+    <MESSAGE value="armada la busqueda y presentacion de bebida aleatoria, excepto la lista de ingredientes y cantidades que no funciona. Eliminada la vista de bebida completa de home" />
+    <MESSAGE value="arreglado el problema con la lista de ingredientes de la bebida random" />
+    <MESSAGE value="eliminado todo lo relacionado con bebida random porque fue quitado de la API. Creados listener y actividad para ver la bebida completa al seleccionar una tarjeta." />
+    <MESSAGE value="resuleto problema de backbutton. resuelto problema de giro de la pantalla" />
+    <MESSAGE value="diseño preliminar de la pantalla de busqueda por nombre" />
+    <MESSAGE value="mejorado el diseño de la vista de FragmentName. Comenzado el fragmento (colocada la vista en forma dinamica, creados los listeners, recuperada la informacion de nombre y letra con el formato adecuado)" />
+    <MESSAGE value="implementada la busqueda por nombre o inicial y terminado en el caso de un unico resultado, falta resolver cuando la busqueda da resultados multiples" />
+    <MESSAGE value="resuelto el problema de las busquedas por nombre y primer caracter, arreglado el boton de retorno para que regrese hasta la eleccion base y luego pregunte antes de salir de la aplicacion" />
+    <MESSAGE value="corregidos los mensajes cuando no se encuentra ninguna bebida buscando por nombre o por inicial" />
+    <MESSAGE value="corregido el mensaje de salida" />
+    <MESSAGE value="corregido un problema con el boton clear de la busqueda por caracter" />
+    <MESSAGE value="arreglado el problema de introducir espacios en blanco o no introducir nada en los dos campos para introducir nombre y primer caracter de la bebida. restringido el edittext del fragmento de letra para que solo acepte un caracter" />
+    <MESSAGE value="inicializado Realm, creados los AppController y RealmController" />
+    <MESSAGE value="agregada version preliminar de FAB en fulldrink_activity.xml. Arreglados problemas con Realm y FullDrink" />
+    <MESSAGE value="implementada toda la funcionalidad de bebidas guardadas y mejoradas algunas vistas" />
+    <MESSAGE value="reconoce la tecla enter en los editview para largar la busqueda (falta ver como se oculta el teclado" />
+    <MESSAGE value="arreglado el asunto de que oculte el softKeyboard cuando se apreta enter" />
+    <MESSAGE value="arreglado problema de no vaciado de listas de resultados en busquedas por nombre y caracter. Arreglada la lista de bebidas guardadas para que las muestre en orden alfabetico" />
+    <MESSAGE value="agregada la splash screen. Commit Final (por ahora)" />
+    <option name="LAST_COMMIT_MESSAGE" value="agregada la splash screen. Commit Final (por ahora)" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Drinks$All_in_app.ic" NAME="All in app Coverage Results" MODIFIED="1569601495036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_menu_name.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentHome.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentIngredient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="75" column="67" lean-forward="true" selection-start-line="75" selection-start-column="67" selection-end-line="75" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_one.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/drawer_item_color.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/side_nav.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/navigation_header.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#273#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_category.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/models/FullDrink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="115" column="32" selection-start-line="115" selection-start-column="32" selection-end-line="115" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8038#8039#0" expanded="true" />
+            <element signature="e#8078#8079#0" expanded="true" />
+            <element signature="e#12641#12642#0" expanded="true" />
+            <element signature="e#12672#12673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_fab_delete.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_fab_saved.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_menu_saved.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/drawer_view.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding>
+            <element signature="e#437#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/App/AppController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_list.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fulldrink_activity.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="47" selection-start-line="47" selection-end-line="50" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FullDrinkActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="99" column="71" selection-start-line="99" selection-start-column="71" selection-end-line="99" selection-end-column="71" />
+          <folding>
+            <element signature="e#3267#3288#0" expanded="true" />
+            <element signature="e#3489#3508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_three.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentFullDrinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="39" column="70" selection-start-line="39" selection-start-column="70" selection-end-line="39" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentSaved.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="55" column="48" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_saved.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/adapters/DrinkAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="126" column="34" lean-forward="true" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
+          <folding>
+            <element signature="e#2414#2415#0" expanded="true" />
+            <element signature="e#2457#2458#0" expanded="true" />
+            <element signature="e#7027#7028#0" expanded="true" />
+            <element signature="e#7075#7076#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_name.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/utils/RealmController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/models/FullDrinkResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/FragmentLetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="134" selection-start-line="134" selection-end-line="136" selection-end-column="48" />
+          <folding>
+            <element signature="e#2351#2352#0" expanded="true" />
+            <element signature="e#2394#2395#0" expanded="true" />
+            <element signature="e#7269#7270#0" expanded="true" />
+            <element signature="e#7317#7318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_letter.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ice_medium.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ice.gif" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/splash_screen.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/main_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/frame_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/utils/Functions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="22" column="115" selection-start-line="22" selection-start-column="115" selection-end-line="22" selection-end-column="115" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="22" column="65" lean-forward="true" selection-start-line="22" selection-start-column="65" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/drinks/activitiesFragments/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
